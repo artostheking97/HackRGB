@@ -5,7 +5,7 @@ It downloads and runs the official OpenRGB release privately in the background a
 
 **Free, open source, unofficial. Not affiliated with OpenRGB or MSI.**
 ## Tested on...
-My personal computer with an MSI B550M motherboard and Thermaltake fans.
+My personal computer with an MSI B550M motherboard and Thermaltake fans. macOS Tahoe 26.7.1
 ## Install
 1. Download `HackRGB.command`.
 2. Open Terminal and run: `bash ~/Downloads/HackRGB.command`
